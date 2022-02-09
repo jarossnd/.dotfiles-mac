@@ -1,0 +1,10 @@
+#Set it to recalculate values automatically, or to '0' to do it manually upon execution of a '@' command.
+set autocalc=1
+set numeric=1
+set numeric_decimal=0
+set ignorecase=1
+
+# Long strings/values overlap the next cells instead of turning into asterisks
+set overlap
+
+
