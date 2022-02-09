@@ -1,0 +1,3 @@
+[submodule "msft"]
+	path = msft
+	url = https://github.com/jarossnd/msft
